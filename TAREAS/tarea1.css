@@ -1,0 +1,29 @@
+h1 {
+  color: red;
+  font-size: 50px;
+  text-align: center;
+}
+h2 {
+  color: orangered;
+  text-align: end;
+}
+h3 {
+  color: orange;
+  text-align: left;
+}
+h4 {
+  color: yellow;
+  text-align: right;
+}
+h5 {
+  color: yellowgreen;
+  text-align: left;
+}
+h6 {
+  color: green;
+  text-align: right;
+}
+p {
+  color: rgb(0, 119, 255);
+  text-align: center;
+}
