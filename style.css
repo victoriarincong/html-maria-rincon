@@ -12,4 +12,10 @@
   color: white;
 }
 .linea5y6 {
+  color: lightskyblue;
+  text-transform: uppercase;
+}
+#linea7 {
+  font-size: 33px;
+  text-shadow: 7px 7px lightseagreen;
 }
