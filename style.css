@@ -1,21 +1,6 @@
-#título {
-  text-shadow: 3px 3px lightpink;
-}
-#linea1 {
-  background-color: yellow;
-}
-#linea2 {
-  color: darkgreen;
-}
-.linea3y4 {
-  background-color: black;
-  color: white;
-}
-.linea5y6 {
-  color: lightskyblue;
-  text-transform: uppercase;
-}
-#linea7 {
-  font-size: 33px;
-  text-shadow: 7px 7px lightseagreen;
+#chayanne {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: invert(100%) drop-shadow(15px 15px blue);
 }
