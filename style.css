@@ -1,6 +1,20 @@
+h2 {
+  text-align: center;
+  color: pink;
+  text-shadow: violet 2px 2px;
+  font-size: 50px;
+}
 #chayanne {
-  display: block;
+  width: 400px;
+  height: 400px;
   margin-left: auto;
   margin-right: auto;
-  filter: invert(100%) drop-shadow(15px 15px blue);
+  display: block;
+  filter: grayscale(100%) drop-shadow(15px 15px grey);
+}
+
+p {
+  text-align: center;
+  color: ;
+  font-size: 20px;
 }
