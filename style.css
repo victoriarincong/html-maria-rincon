@@ -5,16 +5,46 @@ h2 {
   font-size: 50px;
 }
 #chayanne {
-  width: 400px;
-  height: 400px;
+  width: 300px;
+  height: 300px;
   margin-left: auto;
   margin-right: auto;
   display: block;
-  filter: grayscale(100%) drop-shadow(15px 15px grey);
+  filter: grayscale(100%) drop-shadow(15px 15px magenta);
+}
+
+h3 {
+  text-align: center;
+  color: pink;
+  text-shadow: violet 2px 2px;
+  font-size: 50px;
+}
+
+#chayanne2 {
+  width: 300px;
+  height: 300px;
+  margin-left: 10px;
+  display: block;
+  filter: grayscale(100%) drop-shadow (15px 15px magenta);
+}
+
+h1 {
+  text-align: center;
+  color: pink;
+  text-shadow: violet 2px 2px;
+  font-size: 50px;
+}
+
+#chayanne3 {
+  width: 300px;
+  height: 300px;
+  margin-left: 200px;
+  display: block;
+  filter: grayscale(100%) drop-shadow (15px 15px magenta);
 }
 
 p {
   text-align: center;
-  color: ;
+  color: black;
   font-size: 20px;
 }
